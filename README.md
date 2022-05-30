@@ -1,8 +1,9 @@
-# Chrome Extension generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-chrome-extension.svg?branch=master)](http://travis-ci.org/yeoman/generator-chrome-extension)
+# Job - Ratings [![Build Status](https://secure.travis-ci.org/yeoman/generator-chrome-extension.svg?branch=master)](http://travis-ci.org/yeoman/generator-chrome-extension)
 
-Maintainer: [Jimmy Moon](https://github.com/ragingwind)
 
-> Chrome Extension generator that creates everything you need to get started with extension development. You can choose Browser UI(Browser,Page Action, Omnibox) type and select into permissions what you need.
+Maintainer: [Creative Workspace](https://github.com/creative-workspace)
+Chrome Extention generatior by: [Jimmy Moon](https://github.com/ragingwind)
+
 
 ## Getting Started
 
